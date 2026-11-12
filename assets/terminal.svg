@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="340" viewBox="0 0 820 340" role="img" aria-labelledby="title desc">
+  <title id="title">Terminal de VS Code con el tema One Monokai — compilación de RubriPost</title>
+  <desc id="desc">Terminal animada que compila y ejecuta RubriPost con los colores ANSI de One Monokai.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#282c34"/>
+      <stop offset="0.6" stop-color="#24272E"/>
+      <stop offset="1" stop-color="#21252B"/>
+    </linearGradient>
+    <linearGradient id="topbar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#e06c75"/>
+      <stop offset="0.5" stop-color="#c678dd"/>
+      <stop offset="1" stop-color="#61afef"/>
+    </linearGradient>
+    <linearGradient id="progress" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#e06c75"/>
+      <stop offset="0.5" stop-color="#c678dd"/>
+      <stop offset="1" stop-color="#61afef"/>
+    </linearGradient>
+    <radialGradient id="ambient" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#98c379" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#98c379" stop-opacity="0"/>
+    </radialGradient>
+
+    <clipPath id="t1"><rect x="30" y="72" width="0" height="22"><animate attributeName="width" from="0" to="760" dur="0.30s" begin="0.25s" fill="freeze"/></rect></clipPath>
+    <clipPath id="t2"><rect x="30" y="102" width="0" height="22"><animate attributeName="width" from="0" to="760" dur="0.50s" begin="0.60s" fill="freeze"/></rect></clipPath>
+    <clipPath id="t3"><rect x="30" y="132" width="0" height="22"><animate attributeName="width" from="0" to="760" dur="0.22s" begin="1.18s" fill="freeze"/></rect></clipPath>
+    <clipPath id="t4"><rect x="30" y="162" width="0" height="22"><animate attributeName="width" from="0" to="760" dur="0.42s" begin="1.46s" fill="freeze"/></rect></clipPath>
+    <clipPath id="t5"><rect x="30" y="192" width="0" height="22"><animate attributeName="width" from="0" to="760" dur="0.36s" begin="1.86s" fill="freeze"/></rect></clipPath>
+    <clipPath id="t6"><rect x="30" y="222" width="0" height="22"><animate attributeName="width" from="0" to="760" dur="0.30s" begin="2.26s" fill="freeze"/></rect></clipPath>
+    <clipPath id="t7"><rect x="30" y="252" width="0" height="22"><animate attributeName="width" from="0" to="760" dur="0.44s" begin="2.52s" fill="freeze"/></rect></clipPath>
+    <clipPath id="t8"><rect x="30" y="282" width="0" height="22"><animate attributeName="width" from="0" to="760" dur="0.34s" begin="2.96s" fill="freeze"/></rect></clipPath>
+  </defs>
+
+  <rect x="0.5" y="0.5" width="819" height="339" rx="16" fill="url(#bg)" stroke="#181A1F"/>
+  <rect x="0" y="0" width="820" height="3" rx="1.5" fill="url(#topbar)"/>
+  <ellipse cx="120" cy="310" rx="240" ry="140" fill="url(#ambient)"/>
+
+  <!-- Barra de terminal (panel #21252B) -->
+  <path d="M0 16a16 16 0 0 1 16-16h788a16 16 0 0 1 16 16v22H0z" fill="#21252B"/>
+  <circle cx="26" cy="20" r="5" fill="#e06c75"/>
+  <circle cx="46" cy="20" r="5" fill="#e5c07b"/>
+  <circle cx="66" cy="20" r="5" fill="#98c379"/>
+  <text x="410" y="25" text-anchor="middle" font-family="'Fira Code','JetBrains Mono',Consolas,monospace" font-size="11.5" fill="#676f7d">TERMINAL · zsh · rubripost@rubrifact: ~/rubripost</text>
+  <line x1="0" y1="38" x2="820" y2="38" stroke="#181A1F"/>
+
+  <g font-family="'Fira Code','JetBrains Mono',Consolas,monospace" font-size="13.5" xml:space="preserve">
+    <g clip-path="url(#t1)">
+      <text x="30" y="88"><tspan fill="#98c379">rubripost@rubrifact</tspan><tspan fill="#676f7d">:</tspan><tspan fill="#61afef">~</tspan><tspan fill="#e06c75">$</tspan><tspan fill="#abb2bf"> whoami</tspan></text>
+    </g>
+    <g clip-path="url(#t2)">
+      <text x="30" y="118" fill="#e5c07b">félix gonzalo falcón llanos · ingeniería de sistemas</text>
+    </g>
+    <g clip-path="url(#t3)">
+      <text x="30" y="148"><tspan fill="#98c379">rubripost@rubrifact</tspan><tspan fill="#676f7d">:</tspan><tspan fill="#61afef">~</tspan><tspan fill="#e06c75">$</tspan><tspan fill="#abb2bf"> cargo build --release</tspan></text>
+    </g>
+    <g clip-path="url(#t4)">
+      <text x="30" y="178"><tspan fill="#676f7d">   Compiling </tspan><tspan fill="#61afef">rubripost</tspan><tspan fill="#c678dd"> v1.0.0</tspan><tspan fill="#676f7d"> (/home/gonzalo/rubripost)</tspan></text>
+    </g>
+    <g clip-path="url(#t5)">
+      <text x="30" y="208"><tspan fill="#676f7d">    Finished </tspan><tspan fill="#e5c07b">release [optimized]</tspan><tspan fill="#676f7d"> target(s) in 2.41s</tspan></text>
+    </g>
+    <g clip-path="url(#t6)">
+      <text x="30" y="238"><tspan fill="#98c379">rubripost@rubrifact</tspan><tspan fill="#676f7d">:</tspan><tspan fill="#61afef">~</tspan><tspan fill="#e06c75">$</tspan><tspan fill="#abb2bf"> ./rubripost --serve</tspan></text>
+    </g>
+    <g clip-path="url(#t7)">
+      <text x="30" y="268"><tspan fill="#676f7d">  </tspan><tspan fill="#abb2bf">listening on</tspan><tspan fill="#56b6c2"> http://127.0.0.1:8080</tspan></text>
+    </g>
+    <g clip-path="url(#t8)">
+      <text x="30" y="298"><tspan fill="#676f7d">  </tspan><tspan fill="#e5c07b">⚠</tspan><tspan fill="#676f7d"> comprobantes: </tspan><tspan fill="#98c379">OK</tspan><tspan fill="#676f7d"> · firma digital: </tspan><tspan fill="#98c379">OK</tspan></text>
+    </g>
+  </g>
+
+  <!-- Barra de progreso -->
+  <rect x="30" y="312" width="220" height="5" rx="2.5" fill="#383E4A"/>
+  <rect x="30" y="312" width="0" height="5" rx="2.5" fill="url(#progress)">
+    <animate attributeName="width" from="0" to="220" dur="1.6s" begin="1.8s" fill="freeze"/>
+  </rect>
+
+  <!-- Cursor -->
+  <rect x="266" y="306" width="9" height="16" fill="#f8f8f0">
+    <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.45;0.5;0.95;1" dur="1.1s" begin="3.4s" repeatCount="indefinite"/>
+  </rect>
+</svg>
