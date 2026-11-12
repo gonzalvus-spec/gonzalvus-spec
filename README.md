@@ -138,7 +138,7 @@ Desarrollador de Software y Analista de Soporte Técnico especializado en <kbd>s
 <!-- Fila inferior: Terminal SVG centrada abarcando todo el ancho -->
 <tr>
 <td colspan="2" align="center" style="padding-top: 20px;">
-  <img width="90%" src="assets/terminal.svg" alt="Terminal animada de desarrollo"/>
+  
 </td>
 </tr>
 </table>
@@ -149,20 +149,23 @@ Desarrollador de Software y Analista de Soporte Técnico especializado en <kbd>s
 
 <div align="center">
 
-### RubriPost
-
-> Herramientas de escritorio confiables, con foco en rendimiento, seguridad y usabilidad.
-
+### RUBRIPOST
+<a href="https://github.com/gonzalvus-spec/RUBRIPOST.git">
+  <img src="https://img.shields.io/badge/Explorar_perfil-922D40?style=for-the-badge&logo=github&logoColor=E9D9C5" alt="Explorar perfil de GitHub"/>
+</a>
+<br/>
+> Herramientas de escritorio confiables, con foco en rendimiento, seguridad y usabilidad. <br/><br/>
+<div align="center">
+  <img width="90%" src="assets/terminal.svg" alt="Terminal animada de desarrollo"/>
+</div>
+<br/>
 <img src="https://img.shields.io/badge/Rust-0D1117?style=flat-square&logo=rust&logoColor=C5A477" alt="Rust"/>
 <img src="https://img.shields.io/badge/Tauri-0D1117?style=flat-square&logo=tauri&logoColor=C5A477" alt="Tauri"/>
 <img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=C5A477" alt="TypeScript"/>
 <img src="https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=C5A477" alt="MongoDB"/>
 
-<br/><br/>
 
-<a href="https://github.com/GonzaloFalcon">
-  <img src="https://img.shields.io/badge/Explorar_perfil-922D40?style=for-the-badge&logo=github&logoColor=E9D9C5" alt="Explorar perfil de GitHub"/>
-</a>
+
 
 </div>
 
