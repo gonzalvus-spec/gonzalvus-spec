@@ -27,7 +27,7 @@
 <div align="center">
 
 <!-- Tarjeta de código con la paleta del tema (SVG propio: GitHub no permite recolorear bloques de código) -->
-<img width="100%" src="assets/code-card.svg" alt="Perfil de Gonzalo Falcón en TypeScript"/>
+<img width="100%" src="assets/code-card1.svg" alt="Perfil de Gonzalo Falcón en TypeScript"/>
 
 </div>
 
