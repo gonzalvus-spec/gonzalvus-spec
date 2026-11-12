@@ -172,7 +172,9 @@ Desarrollador de Software y Analista de Soporte Técnico especializado en sistem
 
 <br/><br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev quote"/>
+<div align="center">
+  <img width="100%" src="assets/quote-es.svg" alt="Dev quote en español"/>
+</div>
 
 <br/>
 
