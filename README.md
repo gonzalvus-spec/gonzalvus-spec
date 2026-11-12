@@ -53,23 +53,24 @@ const gonzalo = {
 
 </details>
 
----
+
 
 ## <img src="https://img.shields.io/badge/02-AT_A_GLANCE-541B2A?style=flat-square" alt="At a glance"/> 
 
 <table>
 <tr>
+<td width="20%" align="center" valign="middle">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExejFlaG1scmE4N2x5c3Z3cGNhYWJ1YmFxbjJ0dXF6cDZ6YnpjMzA2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yofjV4wkaQ0Kig5xig/giphy.gif" width="75" alt="Coding animation"/>
+</td>
+<td width="80%" valign="middle" style="padding-left: 10px;">
 
+Desarrollador de Software y Analista de Soporte Técnico especializado en <kbd>sistemas de facturación electrónica</kbd>, con una sólida trayectoria en el <kbd>Desarrollo Full Stack</kbd> orientada a la arquitectura y despliegue integral de <kbd>soluciones tecnológicas de alto rendimiento</kbd>. Su enfoque combina el dominio de tecnologías nativas y multiplataforma para diseñar, construir y mantener sistemas robustos tanto en el <kbd>backend</kbd> como en el <kbd>frontend</kbd>, garantizando la <kbd>escalabilidad</kbd>, la <kbd>seguridad</kbd> y la optimización de procesos críticos de negocio.
 
-
-Desarrollador de Software y Analista de Soporte Técnico especializado en sistemas de facturación electrónica, con una sólida trayectoria en el Desarrollo Full Stack orientada a la arquitectura y despliegue integral de soluciones tecnológicas de alto rendimiento. Su enfoque combina el dominio de tecnologías nativas y multiplataforma para diseñar, construir y mantener sistemas robustos tanto en el backend como en el frontend, garantizando la escalabilidad, la seguridad y la optimización de procesos críticos de negocio.
-
-
-
+</td>
 </tr>
 </table>
 
----
+
 
 ## <img src="https://img.shields.io/badge/03-TECH_STACK-541B2A?style=flat-square" alt="Tech stack"/> Technology Stack
 
