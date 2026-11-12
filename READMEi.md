@@ -31,9 +31,11 @@
 ```typescript
 const gonzalo = {
   nombre: "Félix Gonzalo Falcón Llanos",
-  rol: ["Desarrollador de facturación electrónica",
-        "Analista de soporte técnico"],
-  empresa: "RUBRIFACT SOLCUCIONES TECNOL+OGICAS S.A.C",
+  rol: [
+    "Desarrollador de facturación electrónica",
+    "Analista de soporte técnico"
+  ],
+  empresa: "RUBRIFACT SOLUCIONES TECNOLÓGICAS S.A.C.",
   estudios: "Ingeniería de Sistemas",
   stack: {
     sistemas: ["Rust", "Tauri"],
@@ -41,10 +43,18 @@ const gonzalo = {
     movil: ["Flutter", "Dart"],
     datos: ["MongoDB"],
   },
-  entorno: ["Debian", "CachyOS", "Windows 11", "Git", "VS Code"],
-  enfoque: ["Optimización de rendimiento",
-            "Herramientas de escritorio robustas",
-            "Hardware a medida"],
+  entorno: [
+    "Debian",
+    "CachyOS",
+    "Windows 11",
+    "Git",
+    "VS Code"
+  ],
+  enfoque: [
+    "Optimización de rendimiento",
+    "Herramientas de escritorio robustas",
+    "Hardware a medida"
+  ],
   estado: "Construyendo software fiable para comprobantes electrónicos",
 } as const;
 ```
@@ -61,42 +71,35 @@ const gonzalo = {
 
 ## <img src="https://img.shields.io/badge/02-PROFILE-541B2A?style=flat-square" alt="Profile"/> 
 
-```typescript
+```javascript
 const gonzalo = {
-  name: "Félix Gonzalo Falcón Llanos",
-
-  roles: [
-    "Electronic Invoicing Developer",
-    "Technical Support Analyst",
+  nombre: "Félix Gonzalo Falcón Llanos",
+  rol: [
+    "Desarrollador de facturación electrónica",
+    "Analista de soporte técnico"
   ],
-
-  company: "Andes Systems S.A.C.",
-  education: "Systems Engineering",
-
+  empresa: "RUBRIFACT SOLUCIONES TECNOLÓGICAS S.A.C.",
+  estudios: "Ingeniería de Sistemas",
   stack: {
-    systems: ["Rust", "Tauri"],
-    frontend: ["React", "TypeScript"],
-    mobile: ["Flutter", "Dart"],
-    database: ["MongoDB"],
+    sistemas: ["Rust", "Tauri"],
+    web: ["React", "TypeScript"],
+    movil: ["Flutter", "Dart"],
+    datos: ["MongoDB"]
   },
-
-  environment: [
+  entorno: [
     "Debian",
     "CachyOS",
     "Windows 11",
     "Git",
-    "VS Code",
+    "VS Code"
   ],
-
-  interests: [
-    "Performance Optimization",
-    "Desktop Applications",
-    "Software Architecture",
-    "Custom Hardware",
+  enfoque: [
+    "Optimización de rendimiento",
+    "Herramientas de escritorio robustas",
+    "Hardware a medida"
   ],
-
-  featuredProject: "AndesGuard",
-} as const;
+  estado: "Construyendo software fiable para comprobantes electrónicos"
+};
 ```
 
 ---
