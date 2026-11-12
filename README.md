@@ -44,7 +44,7 @@ const gonzalo = {
     sistemas: ["Rust", "Tauri"],
     web: ["React", "TypeScript"],
     movil: ["Flutter", "Dart"],
-    datos: ["MongoDB"],
+    datos: ["MongoDB"]
   },
   entorno: ["Debian", "CachyOS", "Windows 11"],
   estado: "Construyendo software fiable",
@@ -55,31 +55,17 @@ const gonzalo = {
 
 ---
 
-## <img src="https://img.shields.io/badge/02-AT_A_GLANCE-541B2A?style=flat-square" alt="At a glance"/> At a glance
+## <img src="https://img.shields.io/badge/02-AT_A_GLANCE-541B2A?style=flat-square" alt="At a glance"/> 
 
 <table>
 <tr>
-<td width="48%" valign="middle">
 
-**Currently**
 
-- 🔭 Desarrollando herramientas de **facturación electrónica**
-- 🦀 Construyendo aplicaciones de escritorio con **Rust + Tauri**
-- 🛠️ Analista de **soporte técnico** en RUBRIFACT
-- 🎓 Estudiando **Ingeniería de Sistemas**
 
-**Principles**
+Desarrollador de Software y Analista de Soporte Técnico especializado en sistemas de facturación electrónica, con una sólida trayectoria en el Desarrollo Full Stack orientada a la arquitectura y despliegue integral de soluciones tecnológicas de alto rendimiento. Su enfoque combina el dominio de tecnologías nativas y multiplataforma para diseñar, construir y mantener sistemas robustos tanto en el backend como en el frontend, garantizando la escalabilidad, la seguridad y la optimización de procesos críticos de negocio.
 
-- Rendimiento antes que comodidad
-- Binarios livianos, arranque instantáneo
-- Software que aguanta producción real
 
-</td>
-<td width="52%" valign="middle" align="center">
 
-<img width="100%" src="assets/terminal.svg" alt="Terminal animada de desarrollo"/>
-
-</td>
 </tr>
 </table>
 
@@ -109,7 +95,7 @@ const gonzalo = {
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="20%" valign="top">
 
 ### Backend & Systems
 
@@ -120,7 +106,7 @@ const gonzalo = {
 - Performance optimization
 
 </td>
-<td width="50%" valign="top">
+<td width="20%" valign="top">
 
 ### Frontend & Mobile
 
@@ -130,7 +116,11 @@ const gonzalo = {
 - Software architecture
 - User experience
 
-</td>
+
+
+<td width="60%" valign="top">
+  <img width="200%" src="assets/terminal.svg" alt="Terminal animada de desarrollo"/>
+  </td>
 </tr>
 </table>
 
@@ -140,7 +130,7 @@ const gonzalo = {
 
 <div align="center">
 
-### AndesGuard
+### RubriPost
 
 > Herramientas de escritorio confiables, con foco en rendimiento, seguridad y usabilidad.
 
@@ -157,14 +147,12 @@ const gonzalo = {
 
 </div>
 
----
+
 
 ## <img src="https://img.shields.io/badge/06-STATS-541B2A?style=flat-square" alt="Stats"/> GitHub Activity
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GonzaloFalcon&show_icons=true&bg_color=0D1117&title_color=C5A477&icon_color=922D40&text_color=D8C8B5&border_color=541B2A&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub stats"/>
-<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GonzaloFalcon&layout=compact&bg_color=0D1117&title_color=C5A477&text_color=D8C8B5&border_color=541B2A&langs_count=8" alt="Top languages"/>
 
 <br/><br/>
 
@@ -172,17 +160,15 @@ const gonzalo = {
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph-liart.vercel.app/graph?username=GonzaloFalcon&bg_color=0D1117&color=C5A477&line=922D40&point=E9D9C5&area=true&area_color=541B2A&hide_border=true&custom_title=Actividad%20reciente" alt="Activity graph"/>
-
 </div>
 
 ---
 
 <div align="center">
 
-### Engineering is about building solutions that last.
+### La ingeniería consiste en crear soluciones que perduren.
 
-<sub>Reliability is not a feature. It is the starting point.</sub>
+<sub>La fiabilidad no es una característica. Es el punto de partida.</sub>
 
 <br/><br/>
 
