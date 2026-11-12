@@ -86,7 +86,7 @@ Desarrollador de Software y Analista de Soporte Técnico especializado en <kbd>s
 
 </div>
 
-## <img src="https://img.shields.io/badge/03-TECH_STACK-541B2A?style=flat-square" alt="Tech stack"/> Tecnolofías
+## <img src="https://img.shields.io/badge/03-TECH_STACK-541B2A?style=flat-square" alt="Tech stack"/> Tecnologías
 
 <div align="center">
 
@@ -110,36 +110,40 @@ Desarrollador de Software y Analista de Soporte Técnico especializado en <kbd>s
 
 <table>
 <tr>
-<td width="20%" valign="top">
+<!-- Columna 1: Backend & Systems -->
+<td width="50%" valign="top">
 
 ### Backend & Systems
 
-- Rust development
-- Tauri desktop applications
-- API development
-- Database management
-- Performance optimization
+- **Rust development:** Aplicaciones seguras y de alto rendimiento.
+- **Tauri desktop:** Desarrollo de software de escritorio nativo.
+- **API development:** Integración y servicios web robustos.
+- **Database management:** Gestión de datos con MongoDB Atlas.
+- **Performance optimization:** Arquitectura y procesos eficientes.
 
 </td>
-<td width="20%" valign="top">
+<!-- Columna 2: Frontend & Mobile -->
+<td width="50%" valign="top">
 
 ### Frontend & Mobile
 
-- React and TypeScript
-- Flutter and Dart
-- Responsive interfaces
-- Software architecture
-- User experience
+- **React & TypeScript:** Interfaces web dinámicas y tipadas.
+- **Flutter & Dart:** Apps móviles multiplataforma (OlivoApp / CardioApp).
+- **Responsive interfaces:** Diseño adaptable y fluido.
+- **Software architecture:** Estructuras limpias y escalables.
+- **User experience:** Enfoque en usabilidad y flujos de usuario.
 
-
-
-<td width="60%" valign="top">
-  <img width="200%" src="assets/terminal.svg" alt="Terminal animada de desarrollo"/>
-  </td>
+</td>
+</tr>
+<!-- Fila inferior: Terminal SVG centrada abarcando todo el ancho -->
+<tr>
+<td colspan="2" align="center" style="padding-top: 20px;">
+  <img width="90%" src="assets/terminal.svg" alt="Terminal animada de desarrollo"/>
+</td>
 </tr>
 </table>
 
----
+
 
 ## <img src="https://img.shields.io/badge/05-PROJECTS-541B2A?style=flat-square" alt="Projects"/> Featured Project
 
