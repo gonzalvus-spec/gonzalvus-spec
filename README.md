@@ -13,7 +13,7 @@
 <a href="mailto:gonzalofll100@gmail.com">
   <img src="https://img.shields.io/badge/EMAIL-541B2A?style=for-the-badge&logo=gmail&logoColor=E9D9C5" alt="Email"/>
 </a>
-<a href="https://github.com/GonzaloFalcon">
+<a href="https://github.com/gonzalvus-spec">
   <img src="https://img.shields.io/badge/GITHUB-34404C?style=for-the-badge&logo=github&logoColor=E9D9C5" alt="GitHub"/>
 </a>
 <img src="https://komarev.com/ghpvc/?username=GonzaloFalcon&label=PROFILE+VIEWS&color=922D40&style=for-the-badge" alt="Profile views"/>
