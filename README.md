@@ -22,7 +22,7 @@
 
 <br/>
 
-## <img src="https://img.shields.io/badge/01-ABOUT_ME-541B2A?style=flat-square" alt="About me"/> About me
+## <img src="https://img.shields.io/badge/01-ABOUT_ME-541B2A?style=flat-square" alt="About me"/> Sobre mí
 
 <div align="center">
 
@@ -55,12 +55,12 @@ const gonzalo = {
 
 
 
-## <img src="https://img.shields.io/badge/02-AT_A_GLANCE-541B2A?style=flat-square" alt="At a glance"/> 
+## <img src="https://img.shields.io/badge/02-AT_A_GLANCE-541B2A?style=flat-square" alt="At a glance"/> De un vistazo
 
 <table>
 <tr>
 <td width="20%" align="center" valign="middle">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExejFlaG1scmE4N2x5c3Z3cGNhYWJ1YmFxbjJ0dXF6cDZ6YnpjMzA2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yofjV4wkaQ0Kig5xig/giphy.gif" width="75" alt="Coding animation"/>
+  <img src="assets/giphy.gif" width="200" alt="Coding animation"/>
 </td>
 <td width="80%" valign="middle" style="padding-left: 10px;">
 
@@ -71,8 +71,22 @@ Desarrollador de Software y Analista de Soporte Técnico especializado en <kbd>s
 </table>
 
 
+<div align="center">
 
-## <img src="https://img.shields.io/badge/03-TECH_STACK-541B2A?style=flat-square" alt="Tech stack"/> Technology Stack
+### "La ingeniería consiste en crear soluciones que perduren".
+
+<sub>La fiabilidad no es una característica. Es el punto de partida.</sub>
+
+<br/>
+
+<div align="center">
+  <img width="100%" src="assets/quote-es.svg" alt="Dev quote en español"/>
+</div>
+
+
+</div>
+
+## <img src="https://img.shields.io/badge/03-TECH_STACK-541B2A?style=flat-square" alt="Tech stack"/> Tecnolofías
 
 <div align="center">
 
@@ -90,7 +104,7 @@ Desarrollador de Software y Analista de Soporte Técnico especializado en <kbd>s
 
 </div>
 
----
+
 
 ## <img src="https://img.shields.io/badge/04-FOCUS-541B2A?style=flat-square" alt="Focus"/> Areas of Interest
 
@@ -163,21 +177,9 @@ Desarrollador de Software y Analista de Soporte Técnico especializado en <kbd>s
 
 </div>
 
----
 
 <div align="center">
 
-### La ingeniería consiste en crear soluciones que perduren.
-
-<sub>La fiabilidad no es una característica. Es el punto de partida.</sub>
-
-<br/><br/>
-
-<div align="center">
-  <img width="100%" src="assets/quote-es.svg" alt="Dev quote en español"/>
-</div>
-
-<br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:922D40,40:541B2A,75:34121F,100:0D1117&height=130&section=footer&animation=twinkling" alt="Dark Bordeaux footer"/>
 
