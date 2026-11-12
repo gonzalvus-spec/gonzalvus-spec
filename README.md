@@ -1,5 +1,3 @@
-# 👨‍💻 Félix Gonzalo Falcón Llanos
-
 <div align="center">
 
 <!-- HEADER: DARK BORDEAUX -->
