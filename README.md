@@ -106,46 +106,65 @@ Desarrollador de Software y Analista de Soporte Técnico especializado en <kbd>s
 
 
 
-## <img src="https://img.shields.io/badge/04-FOCUS-541B2A?style=flat-square" alt="Focus"/> Areas of Interest
+## <img src="https://img.shields.io/badge/04-FOCUS-541B2A?style=flat-square" alt="Focus"/> Áreas de interés
 
-<table>
+<table width="100%" style="background-color: #181a1f; border-radius: 16px; border-collapse: separate; border-spacing: 16px; border: 1px solid #383E4A; font-family: 'Fira Code', 'JetBrains Mono', Consolas, monospace;">
 <tr>
-<!-- Columna 1: Backend & Systems -->
-<td width="50%" valign="top">
 
-### Backend & Systems
-
-- **Rust development:** Aplicaciones seguras y de alto rendimiento.
-- **Tauri desktop:** Desarrollo de software de escritorio nativo.
-- **API development:** Integración y servicios web robustos.
-- **Database management:** Gestión de datos con MongoDB Atlas.
-- **Performance optimization:** Arquitectura y procesos eficientes.
-
-</td>
-<!-- Columna 2: Frontend & Mobile -->
-<td width="50%" valign="top">
-
-### Frontend & Mobile
-
-- **React & TypeScript:** Interfaces web dinámicas y tipadas.
-- **Flutter & Dart:** Apps móviles multiplataforma (OlivoApp / CardioApp).
-- **Responsive interfaces:** Diseño adaptable y fluido.
-- **Software architecture:** Estructuras limpias y escalables.
-- **User experience:** Enfoque en usabilidad y flujos de usuario.
-
-</td>
-</tr>
-<!-- Fila inferior: Terminal SVG centrada abarcando todo el ancho -->
-<tr>
-<td colspan="2" align="center" style="padding-top: 20px;">
+<!-- TARJETA 1: Backend & Systems -->
+<td width="50%" valign="top" style="background-color: #21252B; border: 1px solid #383E4A; border-radius: 12px; padding: 0px; overflow: hidden; position: relative; box-shadow: 0 8px 24px rgba(0,0,0,0.6);">
+  <!-- Línea superior de acento One Monokai -->
+  <div style="height: 3px; background: linear-gradient(90deg, #98c379, #61afef); width: 100%;"></div>
   
+  <!-- Cabecera sombreada -->
+  <div style="background-color: #1b1e23; padding: 12px 18px; border-bottom: 1px solid #383E4A; display: flex; align-items: center; justify-content: space-between;">
+    <span style="font-size: 12px; color: #56b6c2; font-weight: 600;">📁 backend/systems.rs</span>
+    <span style="font-size: 10px; color: #676f7d; background: #282c34; padding: 2px 6px; border-radius: 4px;">rust</span>
+  </div>
+
+  <!-- Cuerpo de la tarjeta -->
+  <div style="padding: 20px;">
+    <h3 style="color: #e5c07b; margin-top: 0; margin-bottom: 16px; font-size: 16px; font-weight: 600;">⚡ Backend & Systems</h3>
+    <ul style="padding-left: 18px; margin: 0; font-size: 13.5px; line-height: 1.7; color: #abb2bf;">
+      <li style="margin-bottom: 6px;"><strong style="color: #e06c75;">Rust dev:</strong> Aplicaciones seguras y de alto rendimiento.</li>
+      <li style="margin-bottom: 6px;"><strong style="color: #61afef;">Tauri desktop:</strong> Desarrollo de software de escritorio nativo.</li>
+      <li style="margin-bottom: 6px;"><strong style="color: #c678dd;">API development:</strong> Integración y servicios web robustos.</li>
+      <li style="margin-bottom: 6px;"><strong style="color: #e5c07b;">Database:</strong> Gestión de datos con MongoDB Atlas.</li>
+      <li><strong style="color: #98c379;">Performance:</strong> Arquitectura y procesos eficientes.</li>
+    </ul>
+  </div>
 </td>
+
+<!-- TARJETA 2: Frontend & Mobile -->
+<td width="50%" valign="top" style="background-color: #21252B; border: 1px solid #383E4A; border-radius: 12px; padding: 0px; overflow: hidden; position: relative; box-shadow: 0 8px 24px rgba(0,0,0,0.6);">
+  <!-- Línea superior de acento One Monokai -->
+  <div style="height: 3px; background: linear-gradient(90deg, #c678dd, #e06c75); width: 100%;"></div>
+  
+  <!-- Cabecera sombreada -->
+  <div style="background-color: #1b1e23; padding: 12px 18px; border-bottom: 1px solid #383E4A; display: flex; align-items: center; justify-content: space-between;">
+    <span style="font-size: 12px; color: #c678dd; font-weight: 600;">📁 frontend/app.tsx</span>
+    <span style="font-size: 10px; color: #676f7d; background: #282c34; padding: 2px 6px; border-radius: 4px;">react</span>
+  </div>
+
+  <!-- Cuerpo de la tarjeta -->
+  <div style="padding: 20px;">
+    <h3 style="color: #61afef; margin-top: 0; margin-bottom: 16px; font-size: 16px; font-weight: 600;">🎨 Frontend & Mobile</h3>
+    <ul style="padding-left: 18px; margin: 0; font-size: 13.5px; line-height: 1.7; color: #abb2bf;">
+      <li style="margin-bottom: 6px;"><strong style="color: #61afef;">React & TypeScript:</strong> Interfaces web dinámicas y tipadas.</li>
+      <li style="margin-bottom: 6px;"><strong style="color: #98c379;">Flutter & Dart:</strong> Apps móviles (OlivoApp / CardioApp).</li>
+      <li style="margin-bottom: 6px;"><strong style="color: #e5c07b;">Responsive:</strong> Diseño adaptable y fluido.</li>
+      <li style="margin-bottom: 6px;"><strong style="color: #c678dd;">Architecture:</strong> Estructuras limpias y escalables.</li>
+      <li><strong style="color: #e06c75;">User experience:</strong> Enfoque en usabilidad y flujos.</li>
+    </ul>
+  </div>
+</td>
+
 </tr>
 </table>
 
 
 
-## <img src="https://img.shields.io/badge/05-PROJECTS-541B2A?style=flat-square" alt="Projects"/> Featured Project
+## <img src="https://img.shields.io/badge/05-PROJECTS-541B2A?style=flat-square" alt="Projects"/> Proyecto destacado
 
 <div align="center">
 
@@ -171,7 +190,7 @@ Desarrollador de Software y Analista de Soporte Técnico especializado en <kbd>s
 
 
 
-## <img src="https://img.shields.io/badge/06-STATS-541B2A?style=flat-square" alt="Stats"/> GitHub Activity
+## <img src="https://img.shields.io/badge/06-STATS-541B2A?style=flat-square" alt="Stats"/> Actividad en GitHub
 
 <div align="center">
 
