@@ -1,0 +1,146 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="460" viewBox="0 0 820 460" role="img" aria-labelledby="title desc">
+  <title id="title">Perfil profesional de Félix Gonzalo Falcón Llanos — tema One Monokai</title>
+  <desc id="desc">Tarjeta de código animada con la paleta oficial del tema One Monokai.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#282c34"/>
+      <stop offset="0.6" stop-color="#24272E"/>
+      <stop offset="1" stop-color="#21252B"/>
+    </linearGradient>
+
+    <linearGradient id="topbar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#e06c75"/>
+      <stop offset="0.5" stop-color="#c678dd"/>
+      <stop offset="1" stop-color="#61afef"/>
+    </linearGradient>
+
+    <radialGradient id="ambient" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#e06c75" stop-opacity="0.20"/>
+      <stop offset="1" stop-color="#e06c75" stop-opacity="0"/>
+    </radialGradient>
+
+    <clipPath id="l1"><rect x="58" y="71" width="0" height="21"><animate attributeName="width" from="0" to="760" dur="0.32s" begin="0.25s" fill="freeze"/></rect></clipPath>
+    <clipPath id="l2"><rect x="58" y="95" width="0" height="21"><animate attributeName="width" from="0" to="760" dur="0.46s" begin="0.40s" fill="freeze"/></rect></clipPath>
+    <clipPath id="l3"><rect x="58" y="119" width="0" height="21"><animate attributeName="width" from="0" to="760" dur="0.78s" begin="0.68s" fill="freeze"/></rect></clipPath>
+    <clipPath id="l4"><rect x="58" y="143" width="0" height="21"><animate attributeName="width" from="0" to="760" dur="0.38s" begin="1.28s" fill="freeze"/></rect></clipPath>
+    <clipPath id="l5"><rect x="58" y="167" width="0" height="21"><animate attributeName="width" from="0" to="760" dur="0.44s" begin="1.48s" fill="freeze"/></rect></clipPath>
+    <clipPath id="l6"><rect x="58" y="191" width="0" height="21"><animate attributeName="width" from="0" to="760" dur="0.28s" begin="1.74s" fill="freeze"/></rect></clipPath>
+    <clipPath id="l7"><rect x="58" y="215" width="0" height="21"><animate attributeName="width" from="0" to="760" dur="0.30s" begin="1.86s" fill="freeze"/></rect></clipPath>
+    <clipPath id="l8"><rect x="58" y="239" width="0" height="21"><animate attributeName="width" from="0" to="760" dur="0.58s" begin="2.00s" fill="freeze"/></rect></clipPath>
+    <clipPath id="l9"><rect x="58" y="263" width="0" height="21"><animate attributeName="width" from="0" to="760" dur="0.56s" begin="2.40s" fill="freeze"/></rect></clipPath>
+    <clipPath id="l10"><rect x="58" y="287" width="0" height="21"><animate attributeName="width" from="0" to="760" dur="0.48s" begin="2.78s" fill="freeze"/></rect></clipPath>
+    <clipPath id="l11"><rect x="58" y="311" width="0" height="21"><animate attributeName="width" from="0" to="760" dur="0.20s" begin="3.10s" fill="freeze"/></rect></clipPath>
+    <clipPath id="l12"><rect x="58" y="335" width="0" height="21"><animate attributeName="width" from="0" to="760" dur="0.46s" begin="3.18s" fill="freeze"/></rect></clipPath>
+    <clipPath id="l13"><rect x="58" y="359" width="0" height="21"><animate attributeName="width" from="0" to="760" dur="0.42s" begin="3.52s" fill="freeze"/></rect></clipPath>
+    <clipPath id="l14"><rect x="58" y="383" width="0" height="21"><animate attributeName="width" from="0" to="760" dur="0.26s" begin="3.82s" fill="freeze"/></rect></clipPath>
+  </defs>
+
+  <!-- Marco (One Monokai: #181A1F bordes) -->
+  <rect x="0.5" y="0.5" width="819" height="459" rx="16" fill="url(#bg)" stroke="#181A1F"/>
+  <rect x="0" y="0" width="820" height="3" rx="1.5" fill="url(#topbar)"/>
+
+  <!-- Resplandor -->
+  <ellipse cx="700" cy="40" rx="250" ry="160" fill="url(#ambient)"/>
+
+  <!-- Barra de pestañas (editorGroupHeader #21252B) -->
+  <path d="M0 16a16 16 0 0 1 16-16h788a16 16 0 0 1 16 16v36H0z" fill="#21252B"/>
+  <circle cx="28" cy="28" r="6" fill="#e06c75"/>
+  <circle cx="52" cy="28" r="6" fill="#e5c07b"/>
+  <circle cx="76" cy="28" r="6" fill="#98c379"/>
+
+  <rect x="100" y="12" width="112" height="34" rx="4" fill="#383E4A"/>
+  <text x="114" y="34" font-family="'Fira Code','JetBrains Mono',Consolas,monospace" font-size="12.5" fill="#abb2bf">gonzalo.ts</text>
+  <circle cx="204" cy="30" r="3.5" fill="#61afef"/>
+
+  <rect x="330" y="18" width="176" height="22" rx="5" fill="#282c34" stroke="#181A1F"/>
+  <text x="346" y="33" font-family="'Fira Code','JetBrains Mono',Consolas,monospace" font-size="11" fill="#56b6c2">rubripost — one monokai</text>
+
+  <line x1="0" y1="52" x2="820" y2="52" stroke="#181A1F"/>
+
+  <g font-family="'Fira Code','JetBrains Mono',Consolas,monospace" font-size="14" xml:space="preserve">
+    <!-- Números de línea (#495162) -->
+    <g fill="#495162" text-anchor="end" font-size="12">
+      <text x="42" y="86">1</text>
+      <text x="42" y="110">2</text>
+      <text x="42" y="134">3</text>
+      <text x="42" y="158">4</text>
+      <text x="42" y="182">5</text>
+      <text x="42" y="206">6</text>
+      <text x="42" y="230">7</text>
+      <text x="42" y="254">8</text>
+      <text x="42" y="278">9</text>
+      <text x="42" y="302">10</text>
+      <text x="42" y="326">11</text>
+      <text x="42" y="350">12</text>
+      <text x="42" y="374">13</text>
+      <text x="42" y="398">14</text>
+    </g>
+
+    <g clip-path="url(#l1)">
+      <text x="68" y="86"><tspan fill="#e06c75">const</tspan><tspan fill="#abb2bf"> gonzalo</tspan><tspan fill="#abb2bf"> = {</tspan></text>
+    </g>
+
+    <g clip-path="url(#l2)">
+      <text x="68" y="110"><tspan fill="#56b6c2">  nombre</tspan><tspan fill="#abb2bf">: </tspan><tspan fill="#e5c07b">"Félix Gonzalo Falcón Llanos"</tspan><tspan fill="#abb2bf">,</tspan></text>
+    </g>
+
+    <g clip-path="url(#l3)">
+      <text x="68" y="134"><tspan fill="#56b6c2">  rol</tspan><tspan fill="#abb2bf">: [</tspan><tspan fill="#e5c07b">"Desarrollador Dev, Facturación electrónica"</tspan><tspan fill="#abb2bf">, </tspan><tspan fill="#e5c07b">"Soporte técnico"</tspan><tspan fill="#abb2bf">],</tspan></text>
+    </g>
+
+    <g clip-path="url(#l4)">
+      <text x="68" y="158"><tspan fill="#56b6c2">  empresa</tspan><tspan fill="#abb2bf">: </tspan><tspan fill="#e5c07b">"RUBRIFACT S.A.C."</tspan><tspan fill="#abb2bf">,</tspan></text>
+    </g>
+
+    <g clip-path="url(#l5)">
+      <text x="68" y="182"><tspan fill="#56b6c2">  estudios</tspan><tspan fill="#abb2bf">: </tspan><tspan fill="#e5c07b">"Ingeniería de Sistemas"</tspan><tspan fill="#abb2bf">,</tspan></text>
+    </g>
+
+    <g clip-path="url(#l6)">
+      <text x="68" y="206"><tspan fill="#56b6c2">  stack</tspan><tspan fill="#abb2bf">: {</tspan></text>
+    </g>
+
+    <g clip-path="url(#l7)">
+      <text x="68" y="230"><tspan fill="#56b6c2">    sistemas</tspan><tspan fill="#abb2bf">: [</tspan><tspan fill="#e5c07b">"Rust"</tspan><tspan fill="#abb2bf">, </tspan><tspan fill="#e5c07b">"Tauri"</tspan><tspan fill="#abb2bf">],</tspan></text>
+    </g>
+
+    <g clip-path="url(#l8)">
+      <text x="68" y="254"><tspan fill="#56b6c2">    web</tspan><tspan fill="#abb2bf">: [</tspan><tspan fill="#e5c07b">"React"</tspan><tspan fill="#abb2bf">, </tspan><tspan fill="#e5c07b">"TypeScript"</tspan><tspan fill="#abb2bf">, </tspan><tspan fill="#e5c07b">"JavaScript"</tspan><tspan fill="#abb2bf">, </tspan><tspan fill="#e5c07b">"PHP"</tspan><tspan fill="#abb2bf">],</tspan></text>
+    </g>
+
+    <g clip-path="url(#l9)">
+      <text x="68" y="278"><tspan fill="#56b6c2">    movil</tspan><tspan fill="#abb2bf">: [</tspan><tspan fill="#e5c07b">"Flutter"</tspan><tspan fill="#abb2bf">, </tspan><tspan fill="#e5c07b">"Dart"</tspan><tspan fill="#abb2bf">, </tspan><tspan fill="#e5c07b">"React-Native"</tspan><tspan fill="#abb2bf">],</tspan></text>
+    </g>
+
+    <g clip-path="url(#l10)">
+      <text x="68" y="302"><tspan fill="#56b6c2">    datos</tspan><tspan fill="#abb2bf">: [</tspan><tspan fill="#e5c07b">"MongoDB"</tspan><tspan fill="#abb2bf">, </tspan><tspan fill="#e5c07b">"PostgreSQL"</tspan><tspan fill="#abb2bf">, </tspan><tspan fill="#e5c07b">"MySQL"</tspan><tspan fill="#abb2bf">],</tspan></text>
+    </g>
+
+    <g clip-path="url(#l11)">
+      <text x="68" y="326"><tspan fill="#abb2bf">  },</tspan></text>
+    </g>
+
+    <g clip-path="url(#l12)">
+      <text x="68" y="350"><tspan fill="#56b6c2">  entorno</tspan><tspan fill="#abb2bf">: [</tspan><tspan fill="#e5c07b">"Debian"</tspan><tspan fill="#abb2bf">, </tspan><tspan fill="#e5c07b">"CachyOS"</tspan><tspan fill="#abb2bf">, </tspan><tspan fill="#e5c07b">"Windows"</tspan><tspan fill="#abb2bf">],</tspan></text>
+    </g>
+
+    <g clip-path="url(#l13)">
+      <text x="68" y="374"><tspan fill="#56b6c2">  estado</tspan><tspan fill="#abb2bf">: </tspan><tspan fill="#e5c07b">"Construyendo software fiable"</tspan><tspan fill="#abb2bf">,</tspan></text>
+    </g>
+
+    <g clip-path="url(#l14)">
+      <text x="68" y="398"><tspan fill="#abb2bf">} </tspan><tspan fill="#e06c75">as const</tspan><tspan fill="#abb2bf">;</tspan></text>
+    </g>
+  </g>
+
+  <!-- Cursor parpadeante (#f8f8f0 como editorCursor) -->
+  <rect x="68" y="408" width="9" height="17" fill="#f8f8f0">
+    <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.45;0.5;0.95;1" dur="1.15s" begin="4.1s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Pie de la tarjeta -->
+  <text x="96" y="422" font-family="'Fira Code','JetBrains Mono',Consolas,monospace" font-size="11" fill="#676f7d">// build: passing · rubripost v1.0</text>
+  <text x="794" y="422" text-anchor="end" font-family="'Fira Code','JetBrains Mono',Consolas,monospace" font-size="11" fill="#676f7d">One Monokai · UTF-8 · LF</text>
+  <text x="68" y="444" font-family="'Fira Code','JetBrains Mono',Consolas,monospace" font-size="11" fill="#98c379">✓ tipado estricto · sin dependencias innecesarias</text>
+</svg>
