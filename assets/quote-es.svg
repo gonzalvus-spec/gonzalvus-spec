@@ -1,0 +1,70 @@
+<svg width="100%" height="150" viewBox="0 0 850 150" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .bg { fill: #0D1117; stroke: #541B2A; stroke-width: 1.5; rx: 8px; }
+    .quote-text { fill: #E9D9C5; font-family: 'Fira Code', monospace; font-size: 15px; font-style: italic; }
+    .author-text { fill: #C5A477; font-family: 'Fira Code', monospace; font-size: 13px; font-weight: 600; }
+    
+    /* Animación de rotación para las frases */
+    @keyframes fade {
+      0%, 18% { opacity: 1; transform: translateY(0); }
+      20%, 95% { opacity: 0; transform: translateY(-10px); pointer-events: none; }
+      100% { opacity: 1; transform: translateY(0); }
+    }
+
+    .q1 { animation: fade 25s infinite 0s; }
+    .q2 { animation: fade 25s infinite 5s; }
+    .q3 { animation: fade 25s infinite 10s; }
+    .q4 { animation: fade 25s infinite 15s; }
+    .q5 { animation: fade 25s infinite 20s; }
+  </style>
+
+  <!-- Tarjeta de fondo -->
+  <rect width="850" height="150" class="bg" />
+
+  <!-- Comilla decorativa -->
+  <text x="35" y="55" class="quote-text" font-size="40" fill="#922D40" opacity="0.4">“</text>
+
+  <!-- Frase 1 -->
+  <g class="q1">
+    <text x="70" y="65" class="quote-text">
+      <tspan x="70" dy="0">Primero, resuelve el problema. Luego,</tspan>
+      <tspan x="70" dy="25">escribe el código.</tspan>
+    </text>
+    <text x="780" y="110" text-anchor="end" class="author-text">— John Johnson</text>
+  </g>
+
+  <!-- Frase 2 -->
+  <g class="q2" opacity="0">
+    <text x="70" y="65" class="quote-text">
+      <tspan x="70" dy="0">El código es como un chiste. Si tienes que</tspan>
+      <tspan x="70" dy="25">explicarlo, es malo.</tspan>
+    </text>
+    <text x="780" y="110" text-anchor="end" class="author-text">— Cory House</text>
+  </g>
+
+  <!-- Frase 3 -->
+  <g class="q3" opacity="0">
+    <text x="70" y="65" class="quote-text">
+      <tspan x="70" dy="0">Un programa hermoso es como un teorema hermoso:</tspan>
+      <tspan x="70" dy="25">hace el trabajo con elegancia.</tspan>
+    </text>
+    <text x="780" y="110" text-anchor="end" class="author-text">— Butler Lampson</text>
+  </g>
+
+  <!-- Frase 4 -->
+  <g class="q4" opacity="0">
+    <text x="70" y="75" class="quote-text">
+      <tspan x="70" dy="0">La simplicidad es el alma de la eficiencia.</tspan>
+    </text>
+    <text x="780" y="110" text-anchor="end" class="author-text">— Austin Freeman</text>
+  </g>
+
+  <!-- Frase 5 -->
+  <g class="q5" opacity="0">
+    <text x="70" y="65" class="quote-text">
+      <tspan x="70" dy="0">Cualquier código tuyo que no hayas visto en seis</tspan>
+      <tspan x="70" dy="25">meses es como si lo hubiera escrito otro.</tspan>
+    </text>
+    <text x="780" y="110" text-anchor="end" class="author-text">— Eagleson's Law</text>
+  </g>
+</svg>
